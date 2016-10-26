@@ -1,0 +1,18 @@
+WARNING: The current installation proposal includes the Nouveau DRI/3D driver.
+
+This driver is considered experimental and is known to have issues with
+applications that use certain 3D acceleration features of modern
+NVIDIA hardware.
+Symptoms include application crashes or lockups & crashes of your systems
+graphical environment. Older Hardware and less demanding applications may work
+just fine and do benefit from the Hardware acceleration features this driver
+offers over software emulation.
+
+Use of this driver should be considered 'at your own risk' and is especially not
+recommended for use with the KDE Desktop Environment or Qt-based Applications.
+
+The hardware vendor potentially offers alternative drivers.
+
+Please only click "I Agree" if you accept the risks that may come with the
+installation of this driver. If you do not agree, please choose "I Disagree" and
+remove the "Mesa-dri-nouveau" package from your installation proposal.
