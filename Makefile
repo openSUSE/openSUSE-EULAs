@@ -3,11 +3,17 @@ POT = Mesa-dri-nouveau/Mesa-dri-nouveau.pot
 MASTER = Mesa-dri-nouveau/Mesa-dri-nouveau.en
 LICENSES := $(PO:.po=.txt)
 VERSION=FIXME
+dest=/usr/share/doc/packages/eulas
 
 all: $(LICENSES) $(POT)
 
 clean:
 	rm -f $(LICENSES)
+
+install: $(LICENSES)
+	mkdir -p $(DESTDIR)$(dest)
+	for i in $(notdir $(LICENSES:.txt=)); do cp $(dir $(MASTER))$$i.txt $(DESTDIR)$(dest)/$$i; done
+	cp $(MASTER) $(DESTDIR)$(dest)
 
 $(POT): $(MASTER)
 	txt2po -P $< $@
@@ -21,4 +27,4 @@ $(POT): $(MASTER)
 	msgmerge -U --previous $@ $< && touch $@
 
 .SUFFIXES = .po .txt
-.PHONY: clean
+.PHONY: clean install all
