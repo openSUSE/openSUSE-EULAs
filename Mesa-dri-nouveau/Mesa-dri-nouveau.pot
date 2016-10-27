@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-10-26 11:12+0200\n"
+"POT-Creation-Date: 2016-10-27 15:27+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -14,17 +14,19 @@ msgstr ""
 "X-Generator: Translate Toolkit 1.13.0\n"
 
 #: Mesa-dri-nouveau/Mesa-dri-nouveau.en:1
-msgid ""
-"WARNING: The current installation proposal includes the Nouveau DRI/3D "
-"driver."
+msgid "WARNING: Nouveau DRI/3D driver selected."
 msgstr ""
 
 #: Mesa-dri-nouveau/Mesa-dri-nouveau.en:3
 msgid ""
 "This driver is considered experimental and is known to have issues with\n"
 "applications that use certain 3D acceleration features of modern\n"
-"NVIDIA hardware.\n"
-"Symptoms include application crashes or lockups & crashes of your systems\n"
+"NVIDIA hardware."
+msgstr ""
+
+#: Mesa-dri-nouveau/Mesa-dri-nouveau.en:7
+msgid ""
+"Symptoms include application crashes or lockups & crashes of your system's\n"
 "graphical environment. Older Hardware and less demanding applications may "
 "work\n"
 "just fine and do benefit from the Hardware acceleration features this "
@@ -32,23 +34,20 @@ msgid ""
 "offers over software emulation."
 msgstr ""
 
-#: Mesa-dri-nouveau/Mesa-dri-nouveau.en:11
+#: Mesa-dri-nouveau/Mesa-dri-nouveau.en:12
 msgid ""
-"Use of this driver should be considered 'at your own risk' and is especially "
-"not\n"
-"recommended for use with the KDE Desktop Environment or Qt-based "
-"Applications."
+"Use of this driver is especially not recommended for use with the KDE "
+"Desktop\n"
+"Environment or Qt-based Applications."
 msgstr ""
 
-#: Mesa-dri-nouveau/Mesa-dri-nouveau.en:14
+#: Mesa-dri-nouveau/Mesa-dri-nouveau.en:15
 msgid "The hardware vendor potentially offers alternative drivers."
 msgstr ""
 
-#: Mesa-dri-nouveau/Mesa-dri-nouveau.en:16
+#: Mesa-dri-nouveau/Mesa-dri-nouveau.en:17
 msgid ""
-"Please only click \"I Agree\" if you accept the risks that may come with "
-"the\n"
-"installation of this driver. If you do not agree, please choose \"I "
-"Disagree\" and\n"
-"remove the \"Mesa-dri-nouveau\" package from your installation proposal."
+"Please click \"I Agree\" if you accept the risks that may come with the\n"
+"installation of this driver. Choose \"I Disagree\"  to prevent installation\n"
+"of the driver and use software emulation instead."
 msgstr ""
