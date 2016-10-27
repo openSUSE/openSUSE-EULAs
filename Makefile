@@ -12,8 +12,8 @@ clean:
 
 install: $(LICENSES)
 	mkdir -p $(DESTDIR)$(dest)
-	for i in $(notdir $(LICENSES:.txt=)); do cp $(dir $(MASTER))$$i.txt $(DESTDIR)$(dest)/$$i; done
-	cp $(MASTER) $(DESTDIR)$(dest)
+	for i in */*.txt; do fn=$${i#*/}; fn=$${fn%.txt}; cp $$i $(DESTDIR)$(dest)/$$fn; done
+	cp */*.en $(DESTDIR)$(dest)
 
 $(POT): $(MASTER)
 	txt2po -P $< $@
