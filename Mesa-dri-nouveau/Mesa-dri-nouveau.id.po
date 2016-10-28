@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-10-27 15:27+0200\n"
-"PO-Revision-Date: 2016-10-28 00:43+0000\n"
+"PO-Revision-Date: 2016-10-28 12:13+0000\n"
 "Last-Translator: M. Edwin Zakaria <medwin@opensuse.org>\n"
 "Language-Team: Indonesian <https://l10n.opensuse.org/projects/opensuse-eulas"
 "/mesa-dri-nouveau-master/id/>\n"
@@ -18,7 +18,7 @@ msgstr ""
 
 #: Mesa-dri-nouveau/Mesa-dri-nouveau.en:1
 msgid "WARNING: Nouveau DRI/3D driver selected."
-msgstr "PERINGATAN: Driver Nouveau DRI/3D dipilih"
+msgstr "PERINGATAN: Driver Nouveau DRI/3D dipilih."
 
 #: Mesa-dri-nouveau/Mesa-dri-nouveau.en:3
 msgid ""
