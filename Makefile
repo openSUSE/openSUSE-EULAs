@@ -12,7 +12,7 @@ clean:
 
 install: $(LICENSES)
 	mkdir -p $(DESTDIR)$(dest)
-	for i in */*.txt; do fn=$${i#*/}; fn=$${fn%.txt}; cp $$i $(DESTDIR)$(dest)/$$fn; done
+	for i in $(LICENSES); do fn=$${i#*/}; fn=$${fn%.txt}; cp $$i $(DESTDIR)$(dest)/$$fn; done
 	cp */*.en $(DESTDIR)$(dest)
 
 $(POT): $(MASTER)
