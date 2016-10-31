@@ -19,7 +19,7 @@ $(POT): $(MASTER)
 	txt2po -P $< $@
 
 %.txt: %.po
-	po2txt --progress=none --threshold=100 $< $@
+	po2txt --progress=none --threshold=100 -i $< -o $@ --template $(basename $(basename $<)).en
 	@if [ -e $@ ]; then sed -i -e"s@#VERSION#@$(VERSION)@g" $@; fi
 
 %.po: $(POT)
