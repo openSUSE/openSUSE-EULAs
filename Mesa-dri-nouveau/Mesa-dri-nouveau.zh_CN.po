@@ -4,25 +4,27 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-10-27 15:27+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2017-03-21 10:47+0000\n"
+"Last-Translator: Chen jingcheng <chenjingchengwz@163.com>\n"
+"Language-Team: Chinese (China) <https://l10n.opensuse.org/projects/opensuse-"
+"eulas/mesa-dri-nouveau-master/zh_CN/>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.13.0\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 2.6\n"
 
 #: Mesa-dri-nouveau/Mesa-dri-nouveau.en:1
 msgid "WARNING: Nouveau DRI/3D driver selected."
-msgstr ""
+msgstr "警告：Nouveau DRI/3D 驱动被选中。"
 
 #: Mesa-dri-nouveau/Mesa-dri-nouveau.en:3
 msgid ""
 "This driver is considered experimental and is known to have issues with\n"
 "applications that use certain 3D acceleration features of modern\n"
 "NVIDIA hardware."
-msgstr ""
+msgstr "该驱动是测试版本，且已知与使用NVIDIA硬件3D加速功能的应用有兼容性问题。"
 
 #: Mesa-dri-nouveau/Mesa-dri-nouveau.en:7
 msgid ""
@@ -33,21 +35,23 @@ msgid ""
 "driver\n"
 "offers over software emulation."
 msgstr ""
+"（不兼容的）的症状包括应用崩溃或操作系统图形界面的锁定&崩溃。旧版本的硬件以及性能要求较低的应用可正常运行，且确实可从该驱动提供的硬件加速功能中获得比软件"
+"模拟加速更高的性能提升。"
 
 #: Mesa-dri-nouveau/Mesa-dri-nouveau.en:12
 msgid ""
 "Use of this driver is especially not recommended for use with the KDE "
 "Desktop\n"
 "Environment or Qt-based Applications."
-msgstr ""
+msgstr "不建议该驱动与KDE桌面环境或基于Qt的应用一同使用。"
 
 #: Mesa-dri-nouveau/Mesa-dri-nouveau.en:15
 msgid "The hardware vendor potentially offers alternative drivers."
-msgstr ""
+msgstr "硬件厂商可能会提供替代的新驱动。"
 
 #: Mesa-dri-nouveau/Mesa-dri-nouveau.en:17
 msgid ""
 "Please click \"I Agree\" if you accept the risks that may come with the\n"
 "installation of this driver. Choose \"I Disagree\"  to prevent installation\n"
 "of the driver and use software emulation instead."
-msgstr ""
+msgstr "如果你接收安装该驱动带来的风险，请点击“同意”。选择“不同意”以阻止驱动安装，并使用软件模拟加速替代该驱动的功能。"
