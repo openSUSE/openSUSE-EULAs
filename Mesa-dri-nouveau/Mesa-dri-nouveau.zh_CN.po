@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-10-27 15:27+0200\n"
+"POT-Creation-Date: 2018-04-20 16:38+0200\n"
 "PO-Revision-Date: 2017-06-15 18:56+0000\n"
 "Last-Translator: Sarah Kriesch <ada.lovelace@gmx.de>\n"
 "Language-Team: Chinese (China) <https://l10n.opensuse.org/projects/opensuse-"
@@ -15,18 +15,18 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Weblate 2.6\n"
 
-#: Mesa-dri-nouveau/Mesa-dri-nouveau.en:1
+#: Mesa-dri-nouveau/Mesa-dri-nouveau.en:2
 msgid "WARNING: Nouveau DRI/3D driver selected."
 msgstr "警告：Nouveau DRI/3D 驱动被选中。"
 
-#: Mesa-dri-nouveau/Mesa-dri-nouveau.en:3
+#: Mesa-dri-nouveau/Mesa-dri-nouveau.en:6
 msgid ""
 "This driver is considered experimental and is known to have issues with\n"
 "applications that use certain 3D acceleration features of modern\n"
 "NVIDIA hardware."
 msgstr "该驱动是测试版本，且已知与使用NVIDIA硬件3D加速功能的应用有兼容性问题。"
 
-#: Mesa-dri-nouveau/Mesa-dri-nouveau.en:7
+#: Mesa-dri-nouveau/Mesa-dri-nouveau.en:11
 msgid ""
 "Symptoms include application crashes or lockups & crashes of your system's\n"
 "graphical environment. Older Hardware and less demanding applications may "
@@ -39,21 +39,27 @@ msgstr ""
 "旧版本的硬件以及性能要求较低的应用可正常运行，\n"
 "且确实可从该驱动提供的硬件加速功能中获得比软件模拟加速更高的性能提升。"
 
-#: Mesa-dri-nouveau/Mesa-dri-nouveau.en:12
+#: Mesa-dri-nouveau/Mesa-dri-nouveau.en:14
 msgid ""
 "Use of this driver is especially not recommended for use with the KDE "
 "Desktop\n"
 "Environment or Qt-based Applications."
 msgstr "不建议该驱动与KDE桌面环境或基于Qt的应用一同使用。"
 
-#: Mesa-dri-nouveau/Mesa-dri-nouveau.en:15
+#: Mesa-dri-nouveau/Mesa-dri-nouveau.en:16
 msgid "The hardware vendor potentially offers alternative drivers."
 msgstr "硬件厂商可能会提供替代的新驱动。"
 
-#: Mesa-dri-nouveau/Mesa-dri-nouveau.en:17
+#: Mesa-dri-nouveau/Mesa-dri-nouveau.en:19
+#, fuzzy
+#| msgid ""
+#| "Please click \"I Agree\" if you accept the risks that may come with the\n"
+#| "installation of this driver. Choose \"I Disagree\"  to prevent "
+#| "installation\n"
+#| "of the driver and use software emulation instead."
 msgid ""
-"Please click \"I Agree\" if you accept the risks that may come with the\n"
-"installation of this driver. Choose \"I Disagree\"  to prevent installation\n"
+"Please click \"Accept\" if you accept the risks that may come with the\n"
+"installation of this driver. Choose \"Cancel\"  to prevent installation\n"
 "of the driver and use software emulation instead."
 msgstr ""
 "如果你接收安装该驱动带来的风险，\n"

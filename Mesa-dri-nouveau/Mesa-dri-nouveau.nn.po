@@ -5,11 +5,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-10-27 15:27+0200\n"
+"POT-Creation-Date: 2018-04-20 16:38+0200\n"
 "PO-Revision-Date: 2017-07-22 12:26+0000\n"
 "Last-Translator: Karl Ove Hufthammer <karl@huftis.org>\n"
-"Language-Team: Norwegian Nynorsk <https://l10n.opensuse.org/projects"
-"/opensuse-eulas/mesa-dri-nouveau-master/nn/>\n"
+"Language-Team: Norwegian Nynorsk <https://l10n.opensuse.org/projects/"
+"opensuse-eulas/mesa-dri-nouveau-master/nn/>\n"
 "Language: nn\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -17,11 +17,11 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 2.13.1\n"
 
-#: Mesa-dri-nouveau/Mesa-dri-nouveau.en:1
+#: Mesa-dri-nouveau/Mesa-dri-nouveau.en:2
 msgid "WARNING: Nouveau DRI/3D driver selected."
 msgstr "ÅTVARING: DRI/3D-drivaren Nouveau er valt."
 
-#: Mesa-dri-nouveau/Mesa-dri-nouveau.en:3
+#: Mesa-dri-nouveau/Mesa-dri-nouveau.en:6
 msgid ""
 "This driver is considered experimental and is known to have issues with\n"
 "applications that use certain 3D acceleration features of modern\n"
@@ -31,7 +31,7 @@ msgstr ""
 "med program som brukar visse 3D-akselerasjonsfunksjonar\n"
 "som finst i moderne NVIDIA-skjermkort."
 
-#: Mesa-dri-nouveau/Mesa-dri-nouveau.en:7
+#: Mesa-dri-nouveau/Mesa-dri-nouveau.en:11
 msgid ""
 "Symptoms include application crashes or lockups & crashes of your system's\n"
 "graphical environment. Older Hardware and less demanding applications may "
@@ -46,7 +46,7 @@ msgstr ""
 "støtta for maskinvareakselerasjon som denne drivaren har\n"
 "(i motsetning til rein programvareemulering av 3D-støtte)."
 
-#: Mesa-dri-nouveau/Mesa-dri-nouveau.en:12
+#: Mesa-dri-nouveau/Mesa-dri-nouveau.en:14
 msgid ""
 "Use of this driver is especially not recommended for use with the KDE "
 "Desktop\n"
@@ -55,14 +55,20 @@ msgstr ""
 "Du bør ikkje bruka denne drivaren saman med KDE-brukarflata\n"
 "eller med Qt-baserte program."
 
-#: Mesa-dri-nouveau/Mesa-dri-nouveau.en:15
+#: Mesa-dri-nouveau/Mesa-dri-nouveau.en:16
 msgid "The hardware vendor potentially offers alternative drivers."
 msgstr "Produsenten av skjermkortet tilbyr alternative drivarar."
 
-#: Mesa-dri-nouveau/Mesa-dri-nouveau.en:17
+#: Mesa-dri-nouveau/Mesa-dri-nouveau.en:19
+#, fuzzy
+#| msgid ""
+#| "Please click \"I Agree\" if you accept the risks that may come with the\n"
+#| "installation of this driver. Choose \"I Disagree\"  to prevent "
+#| "installation\n"
+#| "of the driver and use software emulation instead."
 msgid ""
-"Please click \"I Agree\" if you accept the risks that may come with the\n"
-"installation of this driver. Choose \"I Disagree\"  to prevent installation\n"
+"Please click \"Accept\" if you accept the risks that may come with the\n"
+"installation of this driver. Choose \"Cancel\"  to prevent installation\n"
 "of the driver and use software emulation instead."
 msgstr ""
 "Vel «Godta» viss du godtek risikoen som følgjer med installeringa\n"

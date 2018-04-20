@@ -3,11 +3,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-10-27 15:27+0200\n"
+"POT-Creation-Date: 2018-04-20 16:38+0200\n"
 "PO-Revision-Date: 2017-07-17 09:32+0000\n"
 "Last-Translator: Ludwig Nussel <lnussel@suse.com>\n"
-"Language-Team: German <https://l10n.opensuse.org/projects/opensuse-eulas"
-"/mesa-dri-nouveau-master/de/>\n"
+"Language-Team: German <https://l10n.opensuse.org/projects/opensuse-eulas/"
+"mesa-dri-nouveau-master/de/>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -15,33 +15,22 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 2.13.1\n"
 
-#: Mesa-dri-nouveau/Mesa-dri-nouveau.en:1
+#: Mesa-dri-nouveau/Mesa-dri-nouveau.en:2
 msgid "WARNING: Nouveau DRI/3D driver selected."
 msgstr "Hinweis: Nouveau DRI/3D Treiber ausgewählt."
 
-#: Mesa-dri-nouveau/Mesa-dri-nouveau.en:3
+#: Mesa-dri-nouveau/Mesa-dri-nouveau.en:6
 msgid ""
 "This driver is considered experimental and is known to have issues with\n"
 "applications that use certain 3D acceleration features of modern\n"
 "NVIDIA hardware."
 msgstr ""
-"Der Treiber ist als Experimentell eingestuft und bekannt dafür, Probleme mit "
-"\n"
+"Der Treiber ist als Experimentell eingestuft und bekannt dafür, Probleme "
+"mit \n"
 "Anwendungen, die 3D-Beschleunigung moderner NVIDIA Hardware nutzen, zu\n"
 "haben."
 
-#: Mesa-dri-nouveau/Mesa-dri-nouveau.en:7
-#| msgid ""
-#| "This driver is considered experimental and is known to have issues with\n"
-#| "applications that use certain 3D acceleration features of modern\n"
-#| "NVIDIA hardware.\n"
-#| "Symptoms include application crashes or lockups & crashes of your "
-#| "systems\n"
-#| "graphical environment. Older Hardware and less demanding applications may "
-#| "work\n"
-#| "just fine and do benefit from the Hardware acceleration features this "
-#| "driver\n"
-#| "offers over software emulation."
+#: Mesa-dri-nouveau/Mesa-dri-nouveau.en:11
 msgid ""
 "Symptoms include application crashes or lockups & crashes of your system's\n"
 "graphical environment. Older Hardware and less demanding applications may "
@@ -57,12 +46,7 @@ msgstr ""
 "Treiber\n"
 "gegenüber Softwareemulation bietet."
 
-#: Mesa-dri-nouveau/Mesa-dri-nouveau.en:12
-#| msgid ""
-#| "Use of this driver should be considered 'at your own risk' and is "
-#| "especially not\n"
-#| "recommended for use with the KDE Desktop Environment or Qt-based "
-#| "Applications."
+#: Mesa-dri-nouveau/Mesa-dri-nouveau.en:14
 msgid ""
 "Use of this driver is especially not recommended for use with the KDE "
 "Desktop\n"
@@ -71,20 +55,20 @@ msgstr ""
 "Die Verwendung des Treibers ist insbesondere nicht Empfehlenswert für die\n"
 "KDE Desktop Umgebung oder Qt basierte Anwendungen."
 
-#: Mesa-dri-nouveau/Mesa-dri-nouveau.en:15
+#: Mesa-dri-nouveau/Mesa-dri-nouveau.en:16
 msgid "The hardware vendor potentially offers alternative drivers."
 msgstr "Der Harwarehersteller bietet möglicherweise alternative Treiber an."
 
-#: Mesa-dri-nouveau/Mesa-dri-nouveau.en:17
+#: Mesa-dri-nouveau/Mesa-dri-nouveau.en:19
+#, fuzzy
 #| msgid ""
-#| "Please only click \"I Agree\" if you accept the risks that may come with "
-#| "the\n"
-#| "installation of this driver. If you do not agree, please choose \"I "
-#| "Disagree\" and\n"
-#| "remove the \"Mesa-dri-nouveau\" package from your installation proposal."
+#| "Please click \"I Agree\" if you accept the risks that may come with the\n"
+#| "installation of this driver. Choose \"I Disagree\"  to prevent "
+#| "installation\n"
+#| "of the driver and use software emulation instead."
 msgid ""
-"Please click \"I Agree\" if you accept the risks that may come with the\n"
-"installation of this driver. Choose \"I Disagree\"  to prevent installation\n"
+"Please click \"Accept\" if you accept the risks that may come with the\n"
+"installation of this driver. Choose \"Cancel\"  to prevent installation\n"
 "of the driver and use software emulation instead."
 msgstr ""
 "Bitte wählen Sie \"Akzeptieren\", wenn Sie die mit diesem Treiber "

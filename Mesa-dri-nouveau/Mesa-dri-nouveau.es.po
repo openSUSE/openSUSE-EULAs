@@ -3,11 +3,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-10-27 15:27+0200\n"
+"POT-Creation-Date: 2018-04-20 16:38+0200\n"
 "PO-Revision-Date: 2018-03-13 12:42+0000\n"
 "Last-Translator: Javier Llorente <javier@opensuse.org>\n"
-"Language-Team: Spanish <https://l10n.opensuse.org/projects/opensuse-eulas"
-"/mesa-dri-nouveau-master/es/>\n"
+"Language-Team: Spanish <https://l10n.opensuse.org/projects/opensuse-eulas/"
+"mesa-dri-nouveau-master/es/>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -15,11 +15,11 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 2.18\n"
 
-#: Mesa-dri-nouveau/Mesa-dri-nouveau.en:1
+#: Mesa-dri-nouveau/Mesa-dri-nouveau.en:2
 msgid "WARNING: Nouveau DRI/3D driver selected."
 msgstr "ATENCIÓN: se ha seleccionado el controlador Nouveau DRI/3D."
 
-#: Mesa-dri-nouveau/Mesa-dri-nouveau.en:3
+#: Mesa-dri-nouveau/Mesa-dri-nouveau.en:6
 msgid ""
 "This driver is considered experimental and is known to have issues with\n"
 "applications that use certain 3D acceleration features of modern\n"
@@ -28,7 +28,7 @@ msgstr ""
 "Este controlador es experimental y se sabe que tiene problemas con "
 "aplicaciones que usen ciertas características de hardware moderno de NVIDIA."
 
-#: Mesa-dri-nouveau/Mesa-dri-nouveau.en:7
+#: Mesa-dri-nouveau/Mesa-dri-nouveau.en:11
 msgid ""
 "Symptoms include application crashes or lockups & crashes of your system's\n"
 "graphical environment. Older Hardware and less demanding applications may "
@@ -43,7 +43,7 @@ msgstr ""
 "benefician de las ventajas que tiene la aceleración hardware de este "
 "controlador sobre la emulación de software."
 
-#: Mesa-dri-nouveau/Mesa-dri-nouveau.en:12
+#: Mesa-dri-nouveau/Mesa-dri-nouveau.en:14
 msgid ""
 "Use of this driver is especially not recommended for use with the KDE "
 "Desktop\n"
@@ -52,15 +52,21 @@ msgstr ""
 "No se recomienda encarecidamente usar este controlador con el entorno de "
 "escritorio KDE ni con aplicaciones Qt."
 
-#: Mesa-dri-nouveau/Mesa-dri-nouveau.en:15
+#: Mesa-dri-nouveau/Mesa-dri-nouveau.en:16
 msgid "The hardware vendor potentially offers alternative drivers."
 msgstr ""
 "El fabricante de hardware seguramente proporciona controladores alternativos."
 
-#: Mesa-dri-nouveau/Mesa-dri-nouveau.en:17
+#: Mesa-dri-nouveau/Mesa-dri-nouveau.en:19
+#, fuzzy
+#| msgid ""
+#| "Please click \"I Agree\" if you accept the risks that may come with the\n"
+#| "installation of this driver. Choose \"I Disagree\"  to prevent "
+#| "installation\n"
+#| "of the driver and use software emulation instead."
 msgid ""
-"Please click \"I Agree\" if you accept the risks that may come with the\n"
-"installation of this driver. Choose \"I Disagree\"  to prevent installation\n"
+"Please click \"Accept\" if you accept the risks that may come with the\n"
+"installation of this driver. Choose \"Cancel\"  to prevent installation\n"
 "of the driver and use software emulation instead."
 msgstr ""
 "Por favor, haz clic en \"Acepto\" si aceptas los riesgos que conlleva la "

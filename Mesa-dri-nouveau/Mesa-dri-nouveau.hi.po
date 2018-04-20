@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-10-27 15:27+0200\n"
+"POT-Creation-Date: 2018-04-20 16:38+0200\n"
 "PO-Revision-Date: 2018-04-07 09:02+0000\n"
 "Last-Translator: Anshul Panwar <caspian7pena@gmail.com>\n"
 "Language-Team: Hindi <https://l10n.opensuse.org/projects/opensuse-eulas/mesa-"
@@ -15,18 +15,18 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 2.18\n"
 
-#: Mesa-dri-nouveau/Mesa-dri-nouveau.en:1
+#: Mesa-dri-nouveau/Mesa-dri-nouveau.en:2
 msgid "WARNING: Nouveau DRI/3D driver selected."
 msgstr "चेतावनी: Nouveau DRI/3D ड्राइवर चयनित है।"
 
-#: Mesa-dri-nouveau/Mesa-dri-nouveau.en:3
+#: Mesa-dri-nouveau/Mesa-dri-nouveau.en:6
 msgid ""
 "This driver is considered experimental and is known to have issues with\n"
 "applications that use certain 3D acceleration features of modern\n"
 "NVIDIA hardware."
 msgstr ""
 
-#: Mesa-dri-nouveau/Mesa-dri-nouveau.en:7
+#: Mesa-dri-nouveau/Mesa-dri-nouveau.en:11
 msgid ""
 "Symptoms include application crashes or lockups & crashes of your system's\n"
 "graphical environment. Older Hardware and less demanding applications may "
@@ -36,20 +36,20 @@ msgid ""
 "offers over software emulation."
 msgstr ""
 
-#: Mesa-dri-nouveau/Mesa-dri-nouveau.en:12
+#: Mesa-dri-nouveau/Mesa-dri-nouveau.en:14
 msgid ""
 "Use of this driver is especially not recommended for use with the KDE "
 "Desktop\n"
 "Environment or Qt-based Applications."
 msgstr ""
 
-#: Mesa-dri-nouveau/Mesa-dri-nouveau.en:15
+#: Mesa-dri-nouveau/Mesa-dri-nouveau.en:16
 msgid "The hardware vendor potentially offers alternative drivers."
 msgstr ""
 
-#: Mesa-dri-nouveau/Mesa-dri-nouveau.en:17
+#: Mesa-dri-nouveau/Mesa-dri-nouveau.en:19
 msgid ""
-"Please click \"I Agree\" if you accept the risks that may come with the\n"
-"installation of this driver. Choose \"I Disagree\"  to prevent installation\n"
+"Please click \"Accept\" if you accept the risks that may come with the\n"
+"installation of this driver. Choose \"Cancel\"  to prevent installation\n"
 "of the driver and use software emulation instead."
 msgstr ""

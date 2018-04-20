@@ -3,24 +3,24 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-10-27 15:27+0200\n"
+"POT-Creation-Date: 2018-04-20 16:38+0200\n"
 "PO-Revision-Date: 2016-10-27 16:19+0000\n"
 "Last-Translator: Andriy Bandura <andriykopanytsia@gmail.com>\n"
-"Language-Team: Ukrainian <https://l10n.opensuse.org/projects/opensuse-eulas"
-"/mesa-dri-nouveau-master/uk/>\n"
+"Language-Team: Ukrainian <https://l10n.opensuse.org/projects/opensuse-eulas/"
+"mesa-dri-nouveau-master/uk/>\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<="
-"4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 2.6\n"
 
-#: Mesa-dri-nouveau/Mesa-dri-nouveau.en:1
+#: Mesa-dri-nouveau/Mesa-dri-nouveau.en:2
 msgid "WARNING: Nouveau DRI/3D driver selected."
 msgstr "ПОПЕРЕДЖЕННЯ: вибрано драйвер Nouveau DRI/3D."
 
-#: Mesa-dri-nouveau/Mesa-dri-nouveau.en:3
+#: Mesa-dri-nouveau/Mesa-dri-nouveau.en:6
 msgid ""
 "This driver is considered experimental and is known to have issues with\n"
 "applications that use certain 3D acceleration features of modern\n"
@@ -30,7 +30,7 @@ msgstr ""
 "програмами, які використовують певні функції тривимірного прискорення \n"
 "сучасних відеокарт NVIDIA."
 
-#: Mesa-dri-nouveau/Mesa-dri-nouveau.en:7
+#: Mesa-dri-nouveau/Mesa-dri-nouveau.en:11
 msgid ""
 "Symptoms include application crashes or lockups & crashes of your system's\n"
 "graphical environment. Older Hardware and less demanding applications may "
@@ -47,7 +47,7 @@ msgstr ""
 "які цей драйвер\n"
 "пропонує над програмною емуляцією."
 
-#: Mesa-dri-nouveau/Mesa-dri-nouveau.en:12
+#: Mesa-dri-nouveau/Mesa-dri-nouveau.en:14
 msgid ""
 "Use of this driver is especially not recommended for use with the KDE "
 "Desktop\n"
@@ -57,14 +57,20 @@ msgstr ""
 "середовищі KDE\n"
 "чи із програмами на основі Qt."
 
-#: Mesa-dri-nouveau/Mesa-dri-nouveau.en:15
+#: Mesa-dri-nouveau/Mesa-dri-nouveau.en:16
 msgid "The hardware vendor potentially offers alternative drivers."
 msgstr "Постачальник обладнання потенційно пропонує альтернативні драйвери."
 
-#: Mesa-dri-nouveau/Mesa-dri-nouveau.en:17
+#: Mesa-dri-nouveau/Mesa-dri-nouveau.en:19
+#, fuzzy
+#| msgid ""
+#| "Please click \"I Agree\" if you accept the risks that may come with the\n"
+#| "installation of this driver. Choose \"I Disagree\"  to prevent "
+#| "installation\n"
+#| "of the driver and use software emulation instead."
 msgid ""
-"Please click \"I Agree\" if you accept the risks that may come with the\n"
-"installation of this driver. Choose \"I Disagree\"  to prevent installation\n"
+"Please click \"Accept\" if you accept the risks that may come with the\n"
+"installation of this driver. Choose \"Cancel\"  to prevent installation\n"
 "of the driver and use software emulation instead."
 msgstr ""
 "Будь ласка, клацніть \"Я погоджуюся\", коли згідні з усіма ризиками, які "
