@@ -1,20 +1,20 @@
-# Arif Budiman <arifpedia@gmail.com>, 2016.
+# Arif Budiman <arifpedia@gmail.com>, 2016-2018.
 #. extracted from Mesa-dri-nouveau/Mesa-dri-nouveau.en
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-04-20 16:38+0200\n"
-"PO-Revision-Date: 2016-10-29 17:11+0000\n"
-"Last-Translator: M. Edwin Zakaria <medwin@opensuse.org>\n"
-"Language-Team: Indonesian <https://l10n.opensuse.org/projects/opensuse-eulas/"
-"mesa-dri-nouveau-master/id/>\n"
+"PO-Revision-Date: 2018-06-13 00:24+0000\n"
+"Last-Translator: Arif Budiman <arifpedia@gmail.com>\n"
+"Language-Team: Indonesian <https://l10n.opensuse.org/projects/opensuse-eulas"
+"/mesa-dri-nouveau-master/id/>\n"
 "Language: id\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 2.6\n"
+"X-Generator: Weblate 2.18\n"
 
 #: Mesa-dri-nouveau/Mesa-dri-nouveau.en:2
 msgid "WARNING: Nouveau DRI/3D driver selected."
@@ -62,22 +62,14 @@ msgid "The hardware vendor potentially offers alternative drivers."
 msgstr "Vendor perangkat keras kemungkinan menawarkan driver alternatif."
 
 #: Mesa-dri-nouveau/Mesa-dri-nouveau.en:19
-#, fuzzy
-#| msgid ""
-#| "Please click \"I Agree\" if you accept the risks that may come with the\n"
-#| "installation of this driver. Choose \"I Disagree\"  to prevent "
-#| "installation\n"
-#| "of the driver and use software emulation instead."
 msgid ""
 "Please click \"Accept\" if you accept the risks that may come with the\n"
 "installation of this driver. Choose \"Cancel\"  to prevent installation\n"
 "of the driver and use software emulation instead."
 msgstr ""
-"Harap hanya klik \"Saya Setuju\" jika Anda menerima risiko yang mungkin "
-"terjadi\n"
-"dari pemasangan driver ini. Pilih \"Saya Tidak Setuju\" untuk mencegah "
-"pemasangan\n"
-"driver dan menggunakan perangkat lunak emulasi."
+"Harap hanya klik \"Setuju\" jika Anda bersedia menerima risiko yang\n"
+"mungkin terjadi dari pemasangan driver ini. Pilih \"Batal\"  untuk mencegah\n"
+"pemasangan driver dan menggunakan perangkat lunak emulasi."
 
 #~ msgid ""
 #~ "WARNING: The current installation proposal includes the Nouveau DRI/3D "
