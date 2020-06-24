@@ -1,0 +1,19 @@
+PERINGATAN: Driver Nouveau DRI/3D dipilih.
+
+Driver ini statusnya adalah percobaan dan diketahui memiliki masalah dengan
+beberapa aplikasi yang menggunakan fitur percepatan/akselerasi 3D pada
+perangkat keras NVIDIA modern.
+
+Gejalanya meliputi aplikasi menjadi mogok atau macet & kerusakan pada lingkungan grafis
+Anda. Perangkat keras lama dan aplikasi  yang tidak terlalu menuntut kinerja grafis mungkin
+dapat bekerja dengan baik dan mendapatkan fitur akselerasi perangkat keras yang dibawa
+driver ini melalui emulasi perangkat lunak.
+
+Penggunaan driver ini secara khusus tidak direkomendasikan untuk penggunaan dengan
+Lingkungan Destop KDE atau Aplikasi berbasis Qt.
+
+Vendor perangkat keras kemungkinan menawarkan driver alternatif.
+
+Harap hanya klik "Setuju" jika Anda bersedia menerima risiko yang
+mungkin terjadi dari pemasangan driver ini. Pilih "Batal"  untuk mencegah
+pemasangan driver dan menggunakan perangkat lunak emulasi.

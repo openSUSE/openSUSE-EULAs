@@ -1,0 +1,19 @@
+ATTENTION : Vous avez sélectionné le pilote Nouveau DRI/3D.
+
+Ce pilote est considéré comme expérimental et est connu pour avoir des problèmes
+avec les applications qui utilisent certaines fonctions d'accélérations 3D
+des matériels NVIDIA modernes.
+
+Les symptômes incluent des plantages d'applications ou des blocages et plantages de
+l'environnement graphique. Les matériels plus anciens et les applications moins exigeantes
+peuvent parfaitement fonctionner et bénéficient des fonctions d'accélération matérielle
+offertes par ce pilote par rapport à l'émulation logicielle.
+
+L'utilisation de ce pilote est particulièrement déconseillé pour l’environnement
+de bureau KDE ou les applications basées sur Qt.
+
+Le fournisseur du matériel propose potentiellement des pilotes alternatifs.
+
+Veuillez cliquer sur "Accepter" si vous acceptez les risques qui peuvent survenir
+avec l'installation de ce pilote. Choisissez "Annuler" pour empêcher l'installation
+de ce pilote et utiliser l'émulation logicielle.

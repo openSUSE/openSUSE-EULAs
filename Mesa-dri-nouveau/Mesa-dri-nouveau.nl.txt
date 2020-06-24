@@ -1,0 +1,21 @@
+WAARSCHUWING: Nouveau DRI/3D apparaatstuurprogramma is geselecteerd.
+
+Dit apparaatstuurprogramma wordt als experimenteel beschouwd en er is bekend dat er problemen met
+toepassingen kunnen zijn die bepaalde 3D versnellingsfuncties van moderne
+NVIDIA hardware gebruiken.
+
+Symptomen omvatten crashes van toepassingen of vastlopen & crashes van de 
+grafische omgeving van uw systeem. Oudere hardware en minder vereisende 
+toepassingen kunnen normaal werken en hebben voordeel van de functies voor
+versnelling met de hardware die dit apparaatstuurprogramma biedt boven 
+emulatie in software.
+
+Gebruik van dit apparaatstuurprogramma wordt speciaal niet aanbevolen om te
+gebruiken met de KDE bureaubladomgeving of op Qt gebaseerde toepassingen.
+
+De leverancier van de hardware biedt potentieel alternatieve apparaatstuurprogramma's.
+
+Klik op "Accepteren" als u het risico accepteert dat kan komen met de
+installatie van dit apparaatstuurprogramma. Kies "Annuleren"  om installatie
+van het apparaatstuurprogramma te voorkomen en gebruik in plaats daarvan 
+emulatie met software.
