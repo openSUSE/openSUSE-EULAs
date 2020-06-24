@@ -1,0 +1,11 @@
+HOIATUS: valitud on Nouveau DRI/3D draiver.
+
+Seda draiverit peetakse katseliseks ja teadaolevalt on sellel probleeme rakendustes, mis kasutavad tänapäevaseid teatud 3D-kiirenduse funktsioone kaasaegses NVIDIA riistvaras.
+
+Sümptomiteks võivad olla rakenduste tõrked või teie graafilise süsteemi hangumised ja kokku jooksmised. Vanem riistvara ja vähem nõudlikud rakendused võivad töötada hästi ja saate sellest draiverist kasu riistvarakiirenduse funktsioonidest, tarkvara emuleerimise ees.
+
+Selle draiveri kasutamine pole eriti soovitatav KDE töölaua jaoks - või Qt-põhised rakendustes.
+
+Riistvara müüja pakub potentsiaalselt alternatiivseid draivereid.
+
+Kui olete nõus riskidega, mis võivad kaasneda selle draiveri paigaldamisega, klõpsake "Nõustu". Paigaldusest loobumi valige "Tühista" ja kasutage selle asemel tarkvara emulatsiooni.

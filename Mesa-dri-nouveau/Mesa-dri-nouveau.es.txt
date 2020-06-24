@@ -1,0 +1,11 @@
+ATENCIÓN: se ha seleccionado el controlador Nouveau DRI/3D.
+
+Este controlador es experimental y se sabe que tiene problemas con aplicaciones que usen ciertas características de hardware moderno de NVIDIA.
+
+Algunos de los síntomas son cierres inesperados y cuelgues de la aplicación, incluso cuelgues del entorno gráfico del sistema. El hardware antiguo y las aplicaciones que requieran menos recursos puede que funcionen bien y se benefician de las ventajas que tiene la aceleración hardware de este controlador sobre la emulación de software.
+
+No se recomienda encarecidamente usar este controlador con el entorno de escritorio KDE ni con aplicaciones Qt.
+
+El fabricante de hardware seguramente proporciona controladores alternativos.
+
+Por favor, haz clic en "Aceptar" si aceptas los riesgos que conlleva la instalación de este controlador. Escoge "Cancelar" para no llevar a cabo la instalación de este controlador y usar emulación de software.

@@ -1,0 +1,18 @@
+VAROITUS: Nouveau-DRI/3D-ajuri valittu.
+
+Tätä ajuria pidetään kokeellisena, ja sillä on tunnetusti ongelmia joidenkin
+uusien NVIDIA-laitteiden 3D-kiihdytystä käyttävien sovellusten kanssa.
+
+Oireisiin kuuluu sovellusten kaatumista tai lukittumista sekä järjestelmän graafisen
+ympäristön kaatumista. Vanhat laitteet ja vähemmän vaativat sovellukset voivat
+toimia hyvin ja hyötyä tämän ajurin ohjelmistoemuloinnilla tarjoaman laitekiihdytyksen
+eduista.
+
+Etenkään ajurin käyttöä ei suositella KDE-työpöytäympäristössä tai
+Qt-pohjaisissa sovelluksissa.
+
+Laitevalmistaja tarjoaa mahdollisesti vaihtoehtoisia ajureita.
+
+Napsauta ”Hyväksyn”, jos hyväksyt tämän ajurin asennuksen mahdolliset
+riskit. Valitsemalla ”En hyväksy” estät ajurin asentamisen, jolloin sen sijasta
+käytetään ohjelmistoemointia.
