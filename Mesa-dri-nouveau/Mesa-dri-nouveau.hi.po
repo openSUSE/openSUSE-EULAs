@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-04-20 16:38+0200\n"
-"PO-Revision-Date: 2020-05-11 08:31+0000\n"
+"PO-Revision-Date: 2021-05-07 05:57+0000\n"
 "Last-Translator: Panwar <caspian7pena@gmail.com>\n"
 "Language-Team: Hindi <https://l10n.opensuse.org/projects/opensuse-eulas/"
 "mesa-dri-nouveau-master/hi/>\n"
@@ -13,11 +13,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 3.6.1\n"
+"X-Generator: Weblate 4.6.1\n"
 
 #: Mesa-dri-nouveau/Mesa-dri-nouveau.en:2
 msgid "WARNING: Nouveau DRI/3D driver selected."
-msgstr "चेतावनी : Nouveau(NVIDIA) डीआरआई/3डी ड्राइवर चयनित है।"
+msgstr "चेतावनी : Nouveau डीआरआई/3डी ड्राइवर चयनित है।"
 
 #: Mesa-dri-nouveau/Mesa-dri-nouveau.en:6
 msgid ""
