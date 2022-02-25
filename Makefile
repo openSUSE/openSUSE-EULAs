@@ -1,6 +1,6 @@
-PO := $(wildcard Mesa-dri-nouveau/Mesa-dri-nouveau.*.po)
-POT = Mesa-dri-nouveau/Mesa-dri-nouveau.pot
-MASTER = Mesa-dri-nouveau/Mesa-dri-nouveau.en
+PO := $(wildcard */*.*.po)
+POT = $(wildcard */*.pot)
+MASTER = $(wilecard */*.en)
 LICENSES := $(PO:.po=.txt)
 VERSION=FIXME
 dest=/usr/share/doc/packages/eulas
